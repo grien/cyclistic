@@ -2,13 +2,13 @@
  "cells": [
   {
    "cell_type": "markdown",
-   "id": "7188b0fe",
+   "id": "3eb9cf88",
    "metadata": {
     "papermill": {
-     "duration": 0.017375,
-     "end_time": "2022-03-20T17:44:46.510694",
+     "duration": 0.018828,
+     "end_time": "2022-03-20T18:01:04.717715",
      "exception": false,
-     "start_time": "2022-03-20T17:44:46.493319",
+     "start_time": "2022-03-20T18:01:04.698887",
      "status": "completed"
     },
     "tags": []
@@ -24,18 +24,19 @@
     "\n",
     "<p style=\"text-align:center;\"><img src=\"https://miro.medium.com/max/1400/1*Z7x7l5YL4WbHkxQckLSXlA.png\" \n",
     "     width=\"800\" \n",
-    "     height=\"700\" /></p>"
+    "     height=\"700\" /></p>\n",
+    "     "
    ]
   },
   {
    "cell_type": "markdown",
-   "id": "5ff6c46b",
+   "id": "e0647f67",
    "metadata": {
     "papermill": {
-     "duration": 0.015906,
-     "end_time": "2022-03-20T17:44:46.544061",
+     "duration": 0.017409,
+     "end_time": "2022-03-20T18:01:04.752369",
      "exception": false,
-     "start_time": "2022-03-20T17:44:46.528155",
+     "start_time": "2022-03-20T18:01:04.734960",
      "status": "completed"
     },
     "tags": []
@@ -64,13 +65,13 @@
   },
   {
    "cell_type": "markdown",
-   "id": "894d388c",
+   "id": "447363f6",
    "metadata": {
     "papermill": {
-     "duration": 0.01589,
-     "end_time": "2022-03-20T17:44:46.575860",
+     "duration": 0.017386,
+     "end_time": "2022-03-20T18:01:04.787205",
      "exception": false,
-     "start_time": "2022-03-20T17:44:46.559970",
+     "start_time": "2022-03-20T18:01:04.769819",
      "status": "completed"
     },
     "tags": []
@@ -99,13 +100,13 @@
   },
   {
    "cell_type": "markdown",
-   "id": "5c34b9de",
+   "id": "41176882",
    "metadata": {
     "papermill": {
-     "duration": 0.015855,
-     "end_time": "2022-03-20T17:44:46.607629",
+     "duration": 0.017163,
+     "end_time": "2022-03-20T18:01:04.821862",
      "exception": false,
-     "start_time": "2022-03-20T17:44:46.591774",
+     "start_time": "2022-03-20T18:01:04.804699",
      "status": "completed"
     },
     "tags": []
@@ -136,13 +137,13 @@
   },
   {
    "cell_type": "markdown",
-   "id": "619cdf37",
+   "id": "2a559cbe",
    "metadata": {
     "papermill": {
-     "duration": 0.015749,
-     "end_time": "2022-03-20T17:44:46.639186",
+     "duration": 0.015926,
+     "end_time": "2022-03-20T18:01:04.854976",
      "exception": false,
-     "start_time": "2022-03-20T17:44:46.623437",
+     "start_time": "2022-03-20T18:01:04.839050",
      "status": "completed"
     },
     "tags": []
@@ -169,13 +170,13 @@
   },
   {
    "cell_type": "markdown",
-   "id": "1d7d6849",
+   "id": "673e5e84",
    "metadata": {
     "papermill": {
-     "duration": 0.014674,
-     "end_time": "2022-03-20T17:44:46.669110",
+     "duration": 0.016202,
+     "end_time": "2022-03-20T18:01:04.887497",
      "exception": false,
-     "start_time": "2022-03-20T17:44:46.654436",
+     "start_time": "2022-03-20T18:01:04.871295",
      "status": "completed"
     },
     "tags": []
@@ -202,13 +203,13 @@
   },
   {
    "cell_type": "markdown",
-   "id": "e61a2a3b",
+   "id": "a75f4bdf",
    "metadata": {
     "papermill": {
-     "duration": 0.014851,
-     "end_time": "2022-03-20T17:44:46.698641",
+     "duration": 0.015542,
+     "end_time": "2022-03-20T18:01:04.918751",
      "exception": false,
-     "start_time": "2022-03-20T17:44:46.683790",
+     "start_time": "2022-03-20T18:01:04.903209",
      "status": "completed"
     },
     "tags": []
@@ -218,6 +219,23 @@
     "\n",
     "**Your top three recommendations based on your analysis**\n",
     "\n"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "9199c6a7",
+   "metadata": {
+    "papermill": {
+     "duration": 0.016187,
+     "end_time": "2022-03-20T18:01:04.951175",
+     "exception": false,
+     "start_time": "2022-03-20T18:01:04.934988",
+     "status": "completed"
+    },
+    "tags": []
+   },
+   "source": [
+    "<div class='tableauPlaceholder' id='viz1647798861778' style=\"width:1000px; margin:0 auto;\"; ><noscript><a href='#'><img alt=' ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ju&#47;JusttheData-WorldHapiness_16399311882360&#47;Dashboard1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='JusttheData-WorldHapiness_16399311882360&#47;Dashboard1' /><param name='tabs' value='yes' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ju&#47;JusttheData-WorldHapiness_16399311882360&#47;Dashboard1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /></object></div>                <script type='text/javascript'>                    var divElement = document.getElementById('viz1647798861778');                    var vizElement = divElement.getElementsByTagName('object')[0];                    if ( divElement.offsetWidth > 800 ) { vizElement.style.minWidth='1000px';vizElement.style.maxWidth='100%';vizElement.style.minHeight='850px';vizElement.style.maxHeight=(divElement.offsetWidth*0.75)+'px';} else if ( divElement.offsetWidth > 500 ) { vizElement.style.minWidth='1000px';vizElement.style.maxWidth='100%';vizElement.style.minHeight='850px';vizElement.style.maxHeight=(divElement.offsetWidth*0.75)+'px';} else { vizElement.style.width='100%';vizElement.style.minHeight='1250px';vizElement.style.maxHeight=(divElement.offsetWidth*1.77)+'px';}                     var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>"
    ]
   }
  ],
@@ -237,14 +255,14 @@
   },
   "papermill": {
    "default_parameters": {},
-   "duration": 3.662664,
-   "end_time": "2022-03-20T17:44:46.826392",
+   "duration": 3.462692,
+   "end_time": "2022-03-20T18:01:05.077810",
    "environment_variables": {},
    "exception": null,
    "input_path": "__notebook__.ipynb",
    "output_path": "__notebook__.ipynb",
    "parameters": {},
-   "start_time": "2022-03-20T17:44:43.163728",
+   "start_time": "2022-03-20T18:01:01.615118",
    "version": "2.3.3"
   }
  },
